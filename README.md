@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zobayer11&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zobayer1)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 
 <img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
@@ -26,4 +28,4 @@
  <a href="https://www.linkedin.com/in/zobayer-hasan-nayem-99bb281b8/"><img src="imgs/linkedin.png" alt="LinkedIn" width='40px' targer="blank"></a>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zobayer1)](https://github.com/anuraghazra/github-readme-stats)
+
