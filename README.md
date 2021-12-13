@@ -4,7 +4,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zobayer11&show_icons=true&count_private=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zobayer11)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=karno786&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zobayer11&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center" style="background-color:yellow; padding-top:5px;">
