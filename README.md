@@ -12,4 +12,4 @@
  <a href="https://www.linkedin.com/in/zobayer-hasan-nayem-99bb281b8/"><img src="imgs/linkedin.png" alt="LinkedIn" width='40px' targer="blank"></a>
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zobayer11)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zobayer1)](https://github.com/anuraghazra/github-readme-stats)
