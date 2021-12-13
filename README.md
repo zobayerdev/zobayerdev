@@ -11,3 +11,5 @@
  <a href="https://www.facebook.com/mdzobayer.hasan.nayem.1"><img src="imgs/facebook.png" alt="Facebook" width='40px' targer="blank"></a>
  <a href="https://www.linkedin.com/in/zobayer-hasan-nayem-99bb281b8/"><img src="imgs/linkedin.png" alt="LinkedIn" width='40px' targer="blank"></a>
 </p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zobayer11)](https://github.com/anuraghazra/github-readme-stats)
