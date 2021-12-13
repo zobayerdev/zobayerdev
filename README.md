@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=zobayer11"> 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zobayer11)  
 
