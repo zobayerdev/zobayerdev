@@ -1,5 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=zobayer11"> 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=zobayer11&theme=react-dark&hide_border=true&area=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zobayer11)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zobayer11&show_icons=true&count_private=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zobayer11)  
 
