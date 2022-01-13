@@ -1,5 +1,15 @@
 <img src="https://komarev.com/ghpvc/?username=zobayer11"> 
 
+<h1 align="center"> Hi 👋, I'm <a href="https://www.facebook.com/md.naimul.rahman.durjoy1">Md. Zobayer Hasan Nayem</a></h1>
+
+
+- 💻 I ~like~ **love** coding.
+- 🌱 &ensp;I’m currently learning Flutter & Java ❤️.
+- 🔭 I’m currently working on a educational platform. Keep an eye for it.
+- 👯 I have successfully worked on production level moabile app projects.
+- 👯 I’m looking to collaborate on opensource and group projects.
+
+<br> 
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=zobayer11&theme=react-dark&hide_border=true&area=true)
 <br>
