@@ -4,12 +4,6 @@
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=zobayer11&theme=react-dark&hide_border=true&area=true)
 <br>
 
-<div align="center">
-    <a href="https://www.facebook.com/md.naimul.rahman.durjoy1">
-    <img src="imgs/facebook.png" alt="Facebook" width='40px' targer="blank">
-  </a>
-</div>
-
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zobayer11&show_icons=true&count_private=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zobayer11)  
