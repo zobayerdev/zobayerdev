@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="https://www.facebook.com/md.naimul.rahman.durjoy1">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    <img src="imgs/facebook.png" alt="Facebook" width='40px' targer="blank">
   </a>
 </div>
 
