@@ -51,95 +51,74 @@
 <!-- eikhane amar best project gulo thakbe -->
 <!-- ############################################# -->
 
-<!-- <h1 align="center">
-  CPAD Gazipur
+<h1 align="center">
+  My Github Profile
 </h1>
-
   
-<h3 align="center">Languages and Tools We Use :<h3>
-
-<br>
-  
-<p align="center"> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-</p>
-
-
 <h3 align="center">
-  <a href="https://discord.gg/KBmDrwJKRq" target="_blank">Click to join Discord Server</a>
+  <a href="https://www.zobayer.trodev.com" target="_blank">Md. Zobayer Hasan Nayem Portfolio</a>
 </h3>
   
 <hr>
   
-<h3> Application list </h3>
+<h3> My Git </h3>
 
 <ol>
   <li>
-    <a href="https://github.com/CPAD-Gazipur/Weather" target="_blank">Weather</a>
+    <a href="https://github.com/zobayer11/Flutter_Scanner" target="_blank">Flutter Scanner</a>
   </li>
     <li>
-    <a href="https://github.com/CPAD-Gazipur/Poi-Poi-ToDo" target="_blank">Poi-Poi To Do</a>
+    <a href="https://github.com/zobayer11/Flutter_Portfolio" target="_blank">Flutter Portfolio</a>
   </li>
   <li>
-    <a href="https://github.com/CPAD-Gazipur/Photo-Finder" target="_blank">Photo Finder</a>
+    <a href="https://github.com/zobayer11/Flutter_Flag" target="_blank">Flutter Flag</a>
   </li>
     <li>
-    <a href="https://github.com/CPAD-Gazipur/Age-Calculator-Lambda" target="_blank">Age Calculator Lambda</a>
+    <a href="https://github.com/zobayer11/Flutter_Stateful_Counter" target="_blank">Flutter Stateful Counter</a>
   </li>
   <li>
-    <a href="https://github.com/CPAD-Gazipur/Age-Calculator" target="_blank">Age Calcutor</a>
+    <a href="https://github.com/zobayer11/Flutter_Calculetor" target="_blank">Flutter Calcutor</a>
   </li>
     <li>
-    <a href="https://github.com/CPAD-Gazipur/Bornomala" target="_blank">Bornomala</a>
+    <a href="https://github.com/zobayer11/Flutter_Alphabate" target="_blank">Flutter Alphabate</a>
   </li>
   <li>
-    <a href="https://github.com/CPAD-Gazipur/Profile" target="_blank">Profile</a>
+    <a href="https://github.com/zobayer11/Flutter_Photo_Gallery" target="_blank">Flutter Photo_Gallery</a>
   </li>
     <li>
-    <a href="https://github.com/CPAD-Gazipur/Portfolio" target="_blank">Portfolio</a>
+    <a href="https://github.com/zobayer11/Flutter_Piano" target="_blank">Flutter Piano</a>
   </li>
   <li>
-    <a href="https://github.com/CPAD-Gazipur/Piano" target="_blank">Piano</a>
+    <a href="https://github.com/zobayer11/Flutter-Dail-Pad" target="_blank">Fluuter Dial Pad</a>
   </li>
-  <li>
-    <a href="https://github.com/CPAD-Gazipur/Calculator" target="_blank">Calculator</a>
-  </li>
-    <li>
-    <a href="https://github.com/CPAD-Gazipur/bmi_calculator_flutter" target="_blank">BMI Calculator</a>
-  </li>
-    <li>
-    <a href="https://github.com/CPAD-Gazipur/Flash-Light" target="_blank">Flash Light</a>
-  </li>
+
 </ol>
   
   
-<h3>Additional Application list </h3>
+<h3>Additional Programming list </h3>
 
 <ol>
   <li>
-    <a href="https://github.com/CPAD-Gazipur/Scanner" target="_blank">Scanner</a>
+    <a href="https://github.com/zobayer11/Android_apps" target="_blank">Android Programming (Mini Project)</a>
+  </li>
+    <li>
+    <a href="https://github.com/zobayer11/Java_Program" target="_blank">Java Programming</a>
+  </li>
+    <li>
+    <a href="https://github.com/zobayer11/Python_Program" target="_blank">Python Programming</a>
   </li>
   <li>
-    <a href="https://github.com/CPAD-Gazipur/Music-Player" target="_blank">Music Player</a>
+    <a href="https://github.com/zobayer11/Web_Development" target="_blank">Web Development Programming</a>
   </li>
+</ol>
+
+
+<h3>Android Apllication (Project) </h3>
+
+<ol>
   <li>
-    <a href="https://github.com/CPAD-Gazipur/Formula" target="_blank">Formula</a>
+    <a href="" target="_blank">Up comming...</a>
   </li>
-  </li>
-  <li>
-    <a href="https://github.com/CPAD-Gazipur/Locker" target="_blank">Locker</a>
-  </li>
-  <li>
-    <a href="https://github.com/CPAD-Gazipur/Stopwatch" target="_blank">StopWatch</a>
-  </li>
-</ol> -->
+ </ol>
 
 
