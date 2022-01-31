@@ -1,5 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=zobayer11"> 
 
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
+
 <h1 align="center"> Hi 👋, I'm <a href="https://www.facebook.com/md.naimul.rahman.durjoy1">Md. Zobayer Hasan Nayem</a></h1>
 
 
@@ -8,6 +11,7 @@
 - 🔭 I’m currently working on a educational platform. Keep an eye for it.
 - 👯 I have successfully worked on production level moabile app projects.
 - 👯 I’m looking to collaborate on opensource and group projects.
+- 📫 How to reach me: zobayer.dev@gmail.com
 
 <br> 
 
@@ -36,13 +40,21 @@
 <!-- How many language use me --> 
 ### Languages and Tools:
 
-<img align="left" alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+<p align="center" style="background-color:yellow; padding-top:5px;">
+<img  alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
+<img  alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<img  alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
+<img  alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img  alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img  alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img  alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</p>
+
 <br /><br /><br />
 <!-- ##################################################### -->
 
@@ -67,9 +79,13 @@
 <!-- eikhane amar best project gulo thakbe -->
 <!-- ############################################# -->
 
-<h1 align="center">
-  My Github Profile
-</h1>
+
+
+<!-- ############################################# -->
+<h1 align="center"> My Github Profile </h1>
+<!-- ############################################# -->
+
+
   
 <h3 align="center">
   <a href="https://www.zobayer.trodev.com" target="_blank">Md. Zobayer Hasan Nayem Portfolio</a>
@@ -77,8 +93,9 @@
   
 <hr>
   
-<h3> My Git </h3>
+<h3 align="center"> My Git </h3>
 
+<h3>Flutter & Dart Programming list </h3>
 <ol>
   <li>
     <a href="https://github.com/zobayer11/Flutter_Scanner" target="_blank">Flutter Scanner</a>
@@ -127,14 +144,14 @@
     <a href="https://github.com/zobayer11/Web_Development" target="_blank">Web Development Programming</a>
   </li>
 </ol>
+<!-- ##################################### -->
 
 
-<h3>Android Apllication (Project) </h3>
+<!-- ##################################### -->
+<h3>Android Application (Project) </h3>
 
 <ol>
   <li>
     <a href="" target="_blank">Up comming...</a>
   </li>
  </ol>
-
-
