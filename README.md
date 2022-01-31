@@ -41,6 +41,7 @@
 ### Languages and Tools:
 
 <p align="center" style="background-color:yellow; padding-top:5px;">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img  alt="Android Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img  alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 <img  alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
@@ -89,13 +90,17 @@
   
 <h3 align="center">
   <a href="https://www.zobayer.trodev.com" target="_blank">Md. Zobayer Hasan Nayem Portfolio</a>
+
 </h3>
   
 <hr>
   
 <h3 align="center"> My Git </h3>
 
-<h3>Flutter & Dart Programming list </h3>
+<h3>Flutter & Dart Programming list
+<img  alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<img  alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+</h3>
 <ol>
   <li>
     <a href="https://github.com/zobayer11/Flutter_Scanner" target="_blank">Flutter Scanner</a>
