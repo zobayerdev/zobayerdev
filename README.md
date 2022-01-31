@@ -81,26 +81,21 @@
 <!-- eikhane amar best project gulo thakbe -->
 <!-- ############################################# -->
 
-
+<h3 align="center">
+  <a href="https://www.zobayer.trodev.com" target="_blank">Md. Zobayer Hasan Nayem Portfolio</a>
+</h3>
 
 <!-- ############################################# -->
 <h1 align="center"> My Github Profile </h1>
 <!-- ############################################# -->
-
-
-  
+    
 <h3 align="center">
-  <a href="https://www.zobayer.trodev.com" target="_blank">Md. Zobayer Hasan Nayem Portfolio</a>
-
+ My Git 
 </h3>
-  
-<hr>
-  
-<h3 align="center"> My Git </h3>
 
-<h3>Flutter & Dart Programming list
-<img  alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<img  alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+
+<h3>
+ Flutter & Dart Programming list
 </h3>
 <ol>
   <li>
