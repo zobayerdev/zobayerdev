@@ -168,7 +168,7 @@
 <h3>Desktop Software (C# Versity Project)</h3>
 <ol>
   <li>
-    <a href="https://github.com/zobayer11/Folder_icon" target="_blank">Folder_Icon</a>
+    <a href="https://github.com/zobayer11/ATM_Management_System" target="_blank">Folder_Icon</a>
   </li>
  </ol>
  
