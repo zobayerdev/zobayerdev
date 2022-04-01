@@ -12,6 +12,7 @@
 - 👯 I have successfully worked on production level moabile app projects.
 - 👯 I’m looking to collaborate on opensource and group projects.
 - 📫 How to reach me: zobayer.dev@gmail.com
+<br>
 
 
 
