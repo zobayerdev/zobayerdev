@@ -66,11 +66,11 @@
 ### Follow Me:
 
 <p align="center" style="background-color:yellow; padding-top:5px;">
- <a href="https://github.com/zobayer11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="30" width="40" /></a>
- <a href="https://www.facebook.com/md.naimul.rahman.durjoy1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+ <a href="https://github.com/zobayerdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/zobayerdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
  <a href="https://discord.gg/zobayerdev#9312" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
- <a href="https://twitter.com/zobayer_hasan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/zobayer-hasan-nayem-99bb281b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+ <a href="https://twitter.com/zobayerdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zobayerdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 </p>
 <!-- ##################################################### -->
 
@@ -99,31 +99,31 @@
 </h3>
 <ol>
   <li>
-    <a href="https://github.com/zobayer11/Flutter_Scanner" target="_blank">Flutter Scanner</a>
+    <a href="https://github.com/zobayerdev/Flutter_Scanner" target="_blank">Flutter Scanner</a>
   </li>
     <li>
-    <a href="https://github.com/zobayer11/Flutter_Portfolio" target="_blank">Flutter Portfolio</a>
+    <a href="https://github.com/zobayerdev/Flutter_Portfolio" target="_blank">Flutter Portfolio</a>
   </li>
   <li>
-    <a href="https://github.com/zobayer11/Flutter_Flag" target="_blank">Flutter Flag</a>
+    <a href="https://github.com/zobayerdev/Flutter_Flag" target="_blank">Flutter Flag</a>
   </li>
     <li>
-    <a href="https://github.com/zobayer11/Flutter_Stateful_Counter" target="_blank">Flutter Stateful Counter</a>
+    <a href="https://github.com/zobayerdev/Flutter_Stateful_Counter" target="_blank">Flutter Stateful Counter</a>
   </li>
   <li>
-    <a href="https://github.com/zobayer11/Flutter_Calculetor" target="_blank">Flutter Calcutor</a>
+    <a href="https://github.com/zobayerdev/Flutter_Calculetor" target="_blank">Flutter Calcutor</a>
   </li>
     <li>
-    <a href="https://github.com/zobayer11/Flutter_Alphabate" target="_blank">Flutter Alphabate</a>
+    <a href="https://github.com/zobayerdev/Flutter_Alphabate" target="_blank">Flutter Alphabate</a>
   </li>
   <li>
-    <a href="https://github.com/zobayer11/Flutter_Photo_Gallery" target="_blank">Flutter Photo_Gallery</a>
+    <a href="https://github.com/zobayerdev/Flutter_Photo_Gallery" target="_blank">Flutter Photo_Gallery</a>
   </li>
     <li>
-    <a href="https://github.com/zobayer11/Flutter_Piano" target="_blank">Flutter Piano</a>
+    <a href="https://github.com/zobayerdev/Flutter_Piano" target="_blank">Flutter Piano</a>
   </li>
   <li>
-    <a href="https://github.com/zobayer11/Flutter-Dail-Pad" target="_blank">Fluuter Dial Pad</a>
+    <a href="https://github.com/zobayerdev/Flutter-Dail-Pad" target="_blank">Fluuter Dial Pad</a>
   </li>
 
 </ol>
@@ -133,19 +133,19 @@
 
 <ol>
   <li>
-    <a href="https://github.com/zobayer11/Android_apps" target="_blank">Android Programming (Mini Project)</a>
+    <a href="https://github.com/zobayerdev/Android_apps" target="_blank">Android Programming (Mini Project)</a>
   </li>
     <li>
-    <a href="https://github.com/zobayer11/Java_Program" target="_blank">Java Programming</a>
+    <a href="https://github.com/zobayerdev/Java_Program" target="_blank">Java Programming</a>
   </li>
     <li>
-    <a href="https://github.com/zobayer11/Python_Program" target="_blank">Python Programming</a>
+    <a href="https://github.com/zobayerdev/Python_Program" target="_blank">Python Programming</a>
   </li>
   <li>
-    <a href="https://github.com/zobayer11/Web_Development" target="_blank">Web Development Programming</a>
+    <a href="https://github.com/zobayerdev/Web_Development" target="_blank">Web Development Programming</a>
   </li>
    <li>
-    <a href="https://github.com/zobayer11/Versity_Project_BUBT" target="_blank">University Program (All Semester)</a>
+    <a href="https://github.com/zobayerdev/Versity_Project_BUBT" target="_blank">University Program (All Semester)</a>
   </li>
 </ol>
 <!-- ##################################### -->
@@ -156,7 +156,7 @@
 
 <ol>
   <li>
-    <a href="https://github.com/zobayer11/Admission_Help_Desk" target="_blank">Admission Help Desk</a>
+    <a href="https://github.com/zobayerdev/Admission_Help_Desk" target="_blank">Admission Help Desk</a>
   </li>
    <li>
     <a href="" target="_blank">Upcoming....!</a>
@@ -168,7 +168,7 @@
 <h3>Desktop Software (C# Versity Project)</h3>
 <ol>
   <li>
-    <a href="https://github.com/zobayer11/ATM_Management_System" target="_blank">ATM Management System</a>
+    <a href="https://github.com/zobayerdev/ATM_Management_System" target="_blank">ATM Management System</a>
   </li>
  </ol>
  
@@ -177,7 +177,7 @@
 <h3>Another Repository</h3>
 <ol>
   <li>
-    <a href="https://github.com/zobayer11/Folder_icon" target="_blank">Folder_Icon</a>
+    <a href="https://github.com/zobayerdev/Folder_icon" target="_blank">Folder_Icon</a>
   </li>
  </ol>
  
