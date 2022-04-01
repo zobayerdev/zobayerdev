@@ -13,13 +13,6 @@
 - 👯 I’m looking to collaborate on opensource and group projects.
 - 📫 How to reach me: zobayer.dev@gmail.com
 
-<br> 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=zobayerdev&custom_title=zobayerdev's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
-<br>
-
-<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zobayerdev&show_icons=true&count_private=true)![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zobayerdev)  
-
 
 <!-- ##################################################### -->
 <!-- Waka Time application --> 
