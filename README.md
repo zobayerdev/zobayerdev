@@ -15,7 +15,7 @@
 
 
 <br>
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=zobayerdev&custom_title=alpondith's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=zobayerdev&custom_title=zobayerdev's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 <br>
 
 
