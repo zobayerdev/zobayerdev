@@ -14,6 +14,11 @@
 - 📫 How to reach me: zobayer.dev@gmail.com
 
 
+<br>
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=alpondith&custom_title=alpondith's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+<br>
+
+
 <!-- ##################################################### -->
 <!-- Waka Time application --> 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zobayer1)](https://github.com/anuraghazra/github-readme-stats)
