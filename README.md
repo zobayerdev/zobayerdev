@@ -80,7 +80,9 @@
 <!-- ############################################# -->
 
 <h3 align="center">
-  <a href="https://www.zobayer.trodev.com" target="_blank">Md. Zobayer Hasan Nayem Portfolio</a>
+  <a href="https://www.zobayer.trodev.com" target="_blank">Md. Zobayer Hasan Nayem</a>
+<br>
+Student of Bangladesh University Of Business And Technology (BUBT)
 </h3>
 
 <!-- ############################################# -->
@@ -143,7 +145,7 @@
     <a href="https://github.com/zobayerdev/Web_Development" target="_blank">Web Development Programming</a>
   </li>
    <li>
-    <a href="https://github.com/zobayerdev/Versity_Project_BUBT" target="_blank">University Program (All Semester)</a>
+    <a href="https://github.com/zobayerdev/Varsity-All-Semester-programming" target="_blank">University Program (All Semester)</a>
   </li>
 </ol>
 <!-- ##################################### -->
