@@ -185,6 +185,9 @@ Student of Bangladesh University Of Business And Technology (BUBT)
   <li>
     <a href="https://zobayerdev.gitbook.io/admissionhelpdesk/" target="_blank">Admission Help Desk</a>
   </li>
+  <li>
+      <a href="https://zobayerdev.gitbook.io/dstqm/" target="_blank"> দারুস সুন্নাহ তাহফিজুল কোরআন মাদ্রাসা </a>
+  </li>
     <li>
         <a href="" target="_blank"> Upcoming....</a>
     </li>
