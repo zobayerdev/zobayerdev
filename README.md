@@ -192,6 +192,25 @@ Student of Bangladesh University Of Business And Technology (BUBT)
         <a href="" target="_blank"> Upcoming....</a>
     </li>
 </ol>
+
+
+ <!-- ##################################### -->
+<h3>Apps on Play Store</h3>
+<ol>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=com.trodev.admissionhelpdesk" target="_blank">Admission Help Desk</a>
+  </li>
+    <li>
+    <a href="https://play.google.com/store/apps/details?id=com.trodev.businessscanner" target="_blank">Business Scanner</a>
+  </li>
+   </li>
+    <li>
+    <a href="https://play.google.com/store/apps/details?id=com.hpsoft.madrashauser" target="_blank">দারুস সুন্নাহ তাহফিজুল কুরআন মাদ্রাসা</a>
+  </li>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=com.trodev.attaqwa" target="_blank">Madrasha AT-Taqwa</a>
+  </li>
+ </ol>
  
  <!-- ##################################### -->
 <h3>Another Repository</h3>
