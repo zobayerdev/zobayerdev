@@ -59,7 +59,8 @@
 
 
 <p> Hacktoberfest-2022 <p> 
-<img src="https://user-images.githubusercontent.com/74914169/196501766-7e877b80-4063-4591-8f2e-b9f8ebf82750.png" width=25% height=25%>
+<img src="https://user-images.githubusercontent.com/74914169/196501766-7e877b80-4063-4591-8f2e-b9f8ebf82750.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/74914169/197784423-efef9eb1-8e78-4f57-b02e-15ba9e44ef9e.png" width=20% height=20%>
 
 
 <!-- ##################################################### -->
