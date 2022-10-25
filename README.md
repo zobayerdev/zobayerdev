@@ -58,10 +58,6 @@
 <!-- ##################################################### -->
 
 
-<p> Hacktoberfest-2022 <p> 
-<img src="https://user-images.githubusercontent.com/74914169/196501766-7e877b80-4063-4591-8f2e-b9f8ebf82750.png" width=20% height=20%>
-<img src="https://user-images.githubusercontent.com/74914169/197784423-efef9eb1-8e78-4f57-b02e-15ba9e44ef9e.png" width=20% height=20%>
-
 
 <!-- ##################################################### -->
 <!-- Follow my social media --> 
@@ -190,6 +186,14 @@ Student of Bangladesh University Of Business And Technology (BUBT)
  </ol>
  
  
- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
+
+# Hacktoberfest Badge Collection
+### Hacktoberfest- Holopin Badge-2022
+<p>
+<img src="https://user-images.githubusercontent.com/74914169/196501766-7e877b80-4063-4591-8f2e-b9f8ebf82750.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/74914169/197784423-efef9eb1-8e78-4f57-b02e-15ba9e44ef9e.png" width=20% height=20%>
+</p>
 
 ![unnamed (1)](https://user-images.githubusercontent.com/74914169/196501337-528f5c28-2bba-4096-a58e-97d96dca3684.png)
