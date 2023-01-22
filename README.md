@@ -191,7 +191,6 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 # Hacktoberfest Badge Collection
 ### Hacktoberfest- Holopin Badge-2022
 <p>
-<!-- <img src="https://user-images.githubusercontent.com/74914169/196501766-7e877b80-4063-4591-8f2e-b9f8ebf82750.png" width=15% height=15%> -->
 <img src="https://user-images.githubusercontent.com/74914169/198706440-92734557-8fed-4071-9fdd-ca02aeba7212.png" width=15% height=15%>
 <img src="https://user-images.githubusercontent.com/74914169/197784423-efef9eb1-8e78-4f57-b02e-15ba9e44ef9e.png" width=15% height=15%>
 <img src="https://user-images.githubusercontent.com/74914169/198705934-50a9b9e7-e57b-4f3f-946c-1d3423190222.png" width=15% height=15%>
