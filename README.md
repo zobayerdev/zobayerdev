@@ -148,6 +148,21 @@ Student of Bangladesh University Of Business And Technology (BUBT)
  </ol>
  
  
+   <!-- ##################################### -->
+<h3>Android Error Solve</h3>
+<ol>
+  <li>
+    <a href="https://sites.google.com/view/pdfview-dependency-error-solve/" target="_blank">Solve PDFView in Android Studio.</a>
+  </li>
+  <!-- <li>
+  <!-- <a href="https://zobayerdev.gitbook.io/dstqm/" target="_blank"> দারুস সুন্নাহ তাহফিজুল কোরআন মাদ্রাসা </a> 
+  </li> -->
+  <li>
+      <a href="" target="_blank"> Upcoming....</a>
+  </li>
+</ol>
+ 
+ 
   <!-- ##################################### -->
 <h3>My GitBook Publication</h3>
 <ol>
