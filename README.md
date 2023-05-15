@@ -19,13 +19,6 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zobayerdev&theme=gruvbox&hide_border=true" />
 </p>
 
-
-<!-- ##################################################### -->
-<!-- Waka Time application --> 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zobayerdev)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ##################################################### -->
-
-
 <!-- ##################################################### -->
 <!-- How many language use me --> 
 ### Languages and Tools:
@@ -74,20 +67,16 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 </h3>
 
 <!-- ############################################# -->
-<h1 align="center"> My Github Profile </h1>
+<h1 align="center"> My Github Profile</h1>
 <!-- ############################################# -->
     
 <h3 align="center">
  My Git 
 </h3>
-    
+<!-- ####################################### -->
 <h3>Additional Programming list </h3>
-
 <ol>
   <li>
-    <a href="https://github.com/zobayerdev/Android_apps" target="_blank">Android Programming (Mini Project)</a>
-  </li>
-    <li>
     <a href="https://github.com/zobayerdev/Java_Program" target="_blank">Java Programming</a>
   </li>
     <li>
@@ -95,9 +84,6 @@ Student of Bangladesh University Of Business And Technology (BUBT)
   </li>
   <li>
     <a href="https://github.com/zobayerdev/Web_Development" target="_blank">Web Development Programming</a>
-  </li>
-   <li>
-    <a href="https://github.com/zobayerdev/Varsity-All-Semester-programming" target="_blank">University Program (All Semester)</a>
   </li>
 </ol>
 <!-- ##################################### -->
@@ -108,24 +94,44 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 
 <ol>
   <li>
-    <a href="https://github.com/zobayerdev/Admission_Help_Desk" target="_blank">Admission Help Desk (1 year ago)</a>
- </li>
- <li>
-    <a href="https://github.com/zobayerdev/My_Wallet_Tracker" target="_blank">My Wallet Tracker (Update Project)</a>
- </li>
- <li>
-    <a href="https://github.com/zobayerdev" target="_blank">Al Quran - The Islamic Apps (Update Project)</a>
- </li>    
-    <li>
-    <a href="https://github.com/zobayerdev" target="_blank">TicTacToe Games (Upcoming Project)</a>
-  </li>  
+    <a href="https://github.com/zobayerdev/Employee_Attandance_Apps" target="_blank">Employee Management System (2023)</a>
+ </li> 
   <li>
-    <a href="https://github.com/zobayerdev" target="_blank">TicTacToe Games (Upcoming Project)</a>
-  </li>    
-    
-   <li>
+    <a href="https://github.com/zobayerdev/Business_Card_Maker" target="_blank">Business Visiting Card Maker (2023)</a>
+ </li>     
+ <li>
+    <a href="https://github.com/zobayerdev/Convertix_QR_PDF_Maker_Scanner" target="_blank">Converti'x (2023)</a>
+ </li>  
+ <li>
+    <a href="https://github.com/zobayerdev/Trodev_Apps" target="_blank">Trodev (2023)</a>
+ </li>
+ <li>
+    <a href="https://github.com/zobayerdev/Organization" target="_blank">My Organization (2022)</a>
+ </li>   
+ <li>
+    <a href="https://github.com/zobayerdev/My_Wallet_Tracker" target="_blank">My Wallet Tracker (2022)</a>
+ </li>
+  <li>
+    <a href="https://github.com/zobayerdev/BMI_Calculator" target="_blank">BMI Calculator (2022)</a>
+ </li>   
+ <li>
+    <a href="https://github.com/zobayerdev/Al_Quran" target="_blank">Al Quran - The Islamic Apps (2022)</a>
+ </li>    
+ <li>
+    <a href="https://github.com/zobayerdev/MyEthics_Note" target="_blank">My Ethics Notes (2022)</a>
+ </li>  
+ <li>
+    <a href="https://github.com/zobayerdev/My_Pharmacy" target="_blank">My Pharmacy (2022)</a>
+ </li>    
+ <li>
+    <a href="https://github.com/zobayerdev/BD_Education_Result" target="_blank">BD Education Results (2021)</a>
+ </li>
+ <li>
+    <a href="https://github.com/zobayerdev/Admission_Help_Desk" target="_blank">Admission Help Desk (2021)</a>
+ </li>  
+ <li>
     <a href="" target="_blank">Upcoming....!</a>
-  </li>
+ </li>
  </ol>
  
  
@@ -138,10 +144,13 @@ Student of Bangladesh University Of Business And Technology (BUBT)
   <li>
     <a href="https://github.com/zobayerdev/Blood-Donation-Management" target="_blank">Blood Donation Management Software</a>
   </li>
+   <li>
+    <a href="" target="_blank">Upcoming....!</a>
+ </li>  
  </ol>
  
  
-   <!-- ##################################### -->
+<!-- ##################################### -->
 <h3>Android Error Solve</h3>
 <ol>
   <li>
@@ -155,25 +164,13 @@ Student of Bangladesh University Of Business And Technology (BUBT)
   </li>
 </ol>
  
- 
-  <!-- ##################################### -->
-<h3>My GitBook Publication</h3>
-<ol>
-  <li>
-    <a href="https://zobayerdev.gitbook.io/admissionhelpdesk/" target="_blank">Admission Help Desk</a>
-  </li>
-  <li>
-      <a href="https://zobayerdev.gitbook.io/dstqm/" target="_blank"> দারুস সুন্নাহ তাহফিজুল কোরআন মাদ্রাসা </a>
-  </li>
-    <li>
-        <a href="" target="_blank"> Upcoming....</a>
-    </li>
-</ol>
-
 
  <!-- ##################################### -->
 <h3>Apps on Play Store</h3>
 <ol>
+  <li>
+    <a href="https://play.google.com/store/apps/details?id=com.trodev.convertix" target="_blank">Converti'x</a>
+  </li>  
   <li>
     <a href="https://play.google.com/store/apps/details?id=com.trodev.admissionhelpdesk" target="_blank">Admission Help Desk</a>
   </li>
@@ -189,8 +186,7 @@ Student of Bangladesh University Of Business And Technology (BUBT)
   </li>
  </ol>
  
- <!-- ##################################### -->
-
+<!-- ##################################### -->
 <h3>Another Repository</h3>
 <ol>
   <li>
@@ -198,9 +194,16 @@ Student of Bangladesh University Of Business And Technology (BUBT)
   </li>
  </ol>
  
+<!-- ##################################### -->
+<h3>Mouse Repository</h3>
+<ol>
+  <li>
+    <a href="https://github.com/zobayerdev/Mouse" target="_blank">Mouse Icon</a>
+  </li>
+ </ol>
+ 
  
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-
 
 # Hacktoberfest Badge Collection
 ### Hacktoberfest- Holopin Badge-2022
