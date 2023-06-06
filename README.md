@@ -94,6 +94,18 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 <h3>Android Application (Project) </h3>
 
 <ol>
+ <li>
+    <a href="https://github.com/zobayerdev/Daily_Ayah" target="_blank">Daily Ayah (2023)</a>
+ </li> 
+ <li>
+    <a href="https://github.com/zobayerdev/Quiz_Solver" target="_blank">Quiz Solver (2023)</a>
+ </li> 
+ <li>
+    <a href="https://github.com/zobayerdev/DIU_Card_Maker" target="_blank">DIU Card Maker (2023)</a>
+ </li> 
+ <li>
+    <a href="https://github.com/zobayerdev/Wovie_TV" target="_blank">Quiz Solver (2023)</a>
+ </li> 
   <li>
     <a href="https://github.com/zobayerdev/Employee_Attandance_Apps" target="_blank">Employee Management System (2023)</a>
  </li> 
