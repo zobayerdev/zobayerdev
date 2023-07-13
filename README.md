@@ -214,6 +214,9 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 <h3>Apps on Play Store</h3>
 <ol>
   <li>
+    <a href="https://play.google.com/store/apps/details?id=com.trodev.dailyayah" target="_blank">Daily Ayah</a>
+  </li>  
+  <li>
     <a href="https://play.google.com/store/apps/details?id=com.trodev.convertix" target="_blank">Converti'x</a>
   </li>  
   <li>
