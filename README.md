@@ -1,8 +1,6 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
-
 <h1 align="center"> Hi 👋, I'm <a href="https://www.facebook.com/zobayerdev/">Md. Zobayer Hasan Nayem</a></h1>
-
 
 - 💻 I ~like~ **love** coding.
 - 🌱 &ensp;I’m currently learning Flutter & Java ❤️.
@@ -94,6 +92,9 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 <h3>Android Application (Project) </h3>
 
 <ol>
+ <li>
+    <a href="https://github.com/zobayerdev/DIU_Card_Maker" target="_blank">Daffodils Card Maker (2023)</a>
+ </li>   
  <li>
     <a href="https://github.com/zobayerdev/Daily_Ayah" target="_blank">Daily Ayah (2023)</a>
  </li> 
@@ -214,6 +215,9 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 <h3>Apps on Play Store</h3>
 <ol>
   <li>
+    <a href="https://play.google.com/store/apps/details?id=com.trodev.trodev" target="_blank">Trodev</a>
+  </li>
+  <li>
     <a href="https://play.google.com/store/apps/details?id=com.trodev.dailyayah" target="_blank">Daily Ayah</a>
   </li>  
   <li>
@@ -222,17 +226,17 @@ Student of Bangladesh University Of Business And Technology (BUBT)
   <li>
     <a href="https://play.google.com/store/apps/details?id=com.trodev.admissionhelpdesk" target="_blank">Admission Help Desk</a>
   </li>
-    <li>
+  <li>
     <a href="https://play.google.com/store/apps/details?id=com.trodev.businessscanner" target="_blank">Business Scanner</a>
   </li>
-   </li>
-    <li>
+  </li>
+  <li>
     <a href="https://play.google.com/store/apps/details?id=com.hpsoft.madrashauser" target="_blank">দারুস সুন্নাহ তাহফিজুল কুরআন মাদ্রাসা</a>
   </li>
   <li>
     <a href="https://play.google.com/store/apps/details?id=com.trodev.attaqwa" target="_blank">Madrasha AT-Taqwa</a>
   </li>
- </ol>
+</ol>
  
 <!-- ##################################### -->
 <h3>Another Repository</h3>
