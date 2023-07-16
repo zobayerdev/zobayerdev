@@ -108,7 +108,7 @@ Student of Bangladesh University Of Business And Technology (BUBT)
     <a href="https://github.com/zobayerdev/Wovie_TV" target="_blank">Wovie_Tv (2023)</a>
  </li> 
   <li>
-    <a href="https://github.com/zobayerdev/Coaching_Management" target="_blank">Employee Management System (2023)</a>
+    <a href="https://github.com/zobayerdev/Coaching_Management" target="_blank">Coaching Management System (2023)</a>
  </li> 
   <li>
     <a href="https://github.com/zobayerdev/Business_Card_Maker" target="_blank">Business Visiting Card Maker (2023)</a>
