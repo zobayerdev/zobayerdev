@@ -92,10 +92,7 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 <h3>Android Application (Project) </h3>
 
 <ol>
- <li>
-    <a href="https://github.com/zobayerdev/DIU_Card_Maker" target="_blank">Daffodils Card Maker (2023)</a>
- </li>   
- <li>
+<li>
     <a href="https://github.com/zobayerdev/Daily_Ayah" target="_blank">Daily Ayah (2023)</a>
  </li> 
  <li>
