@@ -4,9 +4,9 @@
 
 - 💻 I ~like~ **love** coding.
 - 🌱 &ensp;I’m currently learning Flutter & Java ❤️.
-- 🔭 I’m currently working on a educational platform. Keep an eye for it.
-- 👯 I have successfully worked on production level moabile app projects.
-- 👯 I’m looking to collaborate on opensource and group projects.
+- 🔭 I’m currently working on an educational platform. Keep an eye out for it.
+- 👯 I have successfully worked on production level mobile app projects.
+- 👯 I’m looking to collaborate on open-source and group projects.
 - 📫 How to reach me: zobayer.dev@gmail.com
 <br>
 <br>
@@ -18,7 +18,7 @@
 </p>
 
 <!-- ##################################################### -->
-<!-- How many language use me --> 
+<!-- How many languages use me? --> 
 ### Languages and Tools:
 
 <p align="center" style="background-color:yellow; padding-top:5px;">
