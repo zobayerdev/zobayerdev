@@ -13,8 +13,9 @@
 <br>
 
 <p align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=zobayerdev&theme=transparent&show_icons=true" />&nbsp;
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=zobayerdev&theme=transparent&border_radius=5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=550)](https://git.io/streak-stats" />
+    <img width="42.5%" src="https://github-readme-stats.vercel.app/api?username=zobayerdev&theme=transparent&show_icons=true" />&nbsp;
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=zobayerdev&theme=transparent&border_radius=5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=550)](https://git.io/streak-stats" />
+    <br> <img width="93.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=zobayerdev&theme=react-dark)]"/>
 </p>
 
 <!-- ##################################################### -->
