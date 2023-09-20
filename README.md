@@ -94,30 +94,33 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 
 <ol>
 <li>
+    <a href="https://github.com/zobayerdev/Career_Matcher_Pro" target="_blank">Career Matcher Pro (2023)</a>
+</li> 
+<li>
     <a href="https://github.com/zobayerdev/Daily_Ayah" target="_blank">Daily Ayah (2023)</a>
- </li> 
- <li>
+</li> 
+<li>
     <a href="https://github.com/zobayerdev/Quiz_Solver" target="_blank">Quiz Solver (2023)</a>
- </li> 
- <li>
+</li> 
+<li>
     <a href="https://github.com/zobayerdev/DIU_Card_Maker" target="_blank">DIU Card Maker (2023)</a>
- </li> 
- <li>
+</li> 
+<li>
     <a href="https://github.com/zobayerdev/Wovie_TV" target="_blank">Wovie_Tv (2023)</a>
- </li> 
-  <li>
+</li> 
+<li>
     <a href="https://github.com/zobayerdev/Coaching_Management" target="_blank">Coaching Management System (2023)</a>
- </li> 
+</li> 
   <li>
     <a href="https://github.com/zobayerdev/Business_Card_Maker" target="_blank">Business Visiting Card Maker (2023)</a>
- </li>     
- <li>
+</li>     
+<li>
     <a href="https://github.com/zobayerdev/Convertix_QR_PDF_Maker_Scanner" target="_blank">Converti'x (2023)</a>
- </li>  
- <li>
+</li>  
+<li>
     <a href="https://github.com/zobayerdev/Trodev_Apps" target="_blank">Trodev (2023)</a>
- </li>
- <li>
+</li>
+<li>
     <a href="https://github.com/zobayerdev/Organization" target="_blank">My Organization (2022)</a>
  </li>   
  <li>
@@ -213,21 +216,11 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 <h3>Apps on Play Store</h3>
 <ol>
   <li>
-    <a href="https://play.google.com/store/apps/details?id=com.trodev.trodev" target="_blank">Trodev</a>
+    <a href="https://play.google.com/store/apps/details?id=com.trodev.trodevit" target="_blank">Trodev</a>
   </li>
   <li>
-    <a href="https://play.google.com/store/apps/details?id=com.trodev.dailyayah" target="_blank">Daily Ayah</a>
+    <a href="https://play.google.com/store/apps/details?id=com.trodev.dailyayat" target="_blank">Daily Ayah</a>
   </li>  
-  <li>
-    <a href="https://play.google.com/store/apps/details?id=com.trodev.convertix" target="_blank">Converti'x</a>
-  </li>  
-  <li>
-    <a href="https://play.google.com/store/apps/details?id=com.trodev.admissionhelpdesk" target="_blank">Admission Help Desk</a>
-  </li>
-  <li>
-    <a href="https://play.google.com/store/apps/details?id=com.trodev.businessscanner" target="_blank">Business Scanner</a>
-  </li>
-  </li>
   <li>
     <a href="https://play.google.com/store/apps/details?id=com.hpsoft.madrashauser" target="_blank">দারুস সুন্নাহ তাহফিজুল কুরআন মাদ্রাসা</a>
   </li>
