@@ -1,4 +1,6 @@
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="380" src="https://github.com/zobayerdev/zobayerdev/assets/74914169/4359fcf3-bd15-4ae8-a349-589c0b59e4c6">
+
+<!-- https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif -->
 
 <h1 align="center"> Hi 👋, I'm <a href="https://www.facebook.com/zobayerdev/">Md. Zobayer Hasan Nayem</a></h1>
 
