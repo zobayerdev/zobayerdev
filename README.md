@@ -13,12 +13,14 @@
 <br>
 <br>
 <br>
-
+<p align="center"> <a href="https://wakatime.com/@a3bf02f0-ca31-41d3-84a4-300f3512fe30"><img src="https://wakatime.com/badge/user/a3bf02f0-ca31-41d3-84a4-300f3512fe30.svg" alt="Total time coded since Dec 12 2021" /></a></p>
 <p align="center">
     <img width="42.5%" src="https://github-readme-stats.vercel.app/api?username=zobayerdev&theme=transparent&show_icons=true" />&nbsp;
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=zobayerdev&theme=transparent&border_radius=5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=550)](https://git.io/streak-stats" />
     <br> <img width="93.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=zobayerdev&theme=react-dark)]"/>
+
 </p>
+
 
 <!-- ##################################################### -->
 <!-- How many languages use me? --> 
