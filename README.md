@@ -75,7 +75,7 @@ Student of Bangladesh University Of Business And Technology (BUBT)
  My Git 
 </h3>
 <!-- ####################################### -->
-<h3>Additional Programming list </h3>
+<h3>Programming Department</h3>
 <ol>
     <li>
     <a href="https://github.com/zobayerdev/Java_Program" target="_blank">Backend Programming</a>
@@ -129,32 +129,32 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 </li>
 <li>
     <a href="https://github.com/zobayerdev/Organization" target="_blank">My Organization (2022)</a>
- </li>   
- <li>
+</li>   
+<li>
     <a href="https://github.com/zobayerdev/My_Wallet_Tracker" target="_blank">My Wallet Tracker (2022)</a>
- </li>
-  <li>
+</li>
+<li>
     <a href="https://github.com/zobayerdev/BMI_Calculator" target="_blank">BMI Calculator (2022)</a>
- </li>   
- <li>
+</li>   
+<li>
     <a href="https://github.com/zobayerdev/Al_Quran" target="_blank">Al Quran - The Islamic Apps (2022)</a>
- </li>    
- <li>
+</li>    
+<li>
     <a href="https://github.com/zobayerdev/MyEthics_Note" target="_blank">My Ethics Notes (2022)</a>
- </li>  
- <li>
+</li>  
+<li>
     <a href="https://github.com/zobayerdev/My_Pharmacy" target="_blank">My Pharmacy (2022)</a>
- </li>    
- <li>
+</li>    
+<li>
     <a href="https://github.com/zobayerdev/BD_Education_Result" target="_blank">BD Education Results (2021)</a>
- </li>
- <li>
+</li>
+<li>
     <a href="https://github.com/zobayerdev/Admission_Help_Desk" target="_blank">Admission Help Desk (2021)</a>
- </li>  
- <li>
+</li>  
+<li>
     <a href="" target="_blank">Upcoming....!</a>
- </li>
- </ol>
+</li>
+</ol>
  
 
 <!-- ##################################### -->
@@ -175,7 +175,7 @@ Student of Bangladesh University Of Business And Technology (BUBT)
   <li>
     <a href="https://github.com/zobayerdev/Jarvis_artificial_software" target="_blank">Jarvis Desktop Assistant</a>
   </li>
-    <li>
+  <li>
     <a href="https://github.com/zobayerdev/" target="_blank">Smart Shoe IOT</a>
   </li>  
   <li>
@@ -184,9 +184,9 @@ Student of Bangladesh University Of Business And Technology (BUBT)
   <li>
     <a href="https://github.com/zobayerdev/Medicare_pro" target="_blank">Medicare Pro Apps</a>
   </li>  
-   <li>
+  <li>
     <a href="" target="_blank">Upcoming....!</a>
- </li>  
+  </li>  
  </ol>
  
  
