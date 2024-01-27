@@ -38,11 +38,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
 </p>
-
-<br /><br /><br />
+<br>
 <!-- ##################################################### -->
-
-
 
 <!-- ##################################################### -->
 <!-- Follow my social media --> 
@@ -65,7 +62,7 @@
 <!-- ############################################# -->
 
 <h3 align="center">
-  <a href="https://www.zobayer.trodev.com" target="_blank">Md. Zobayer Hasan Nayem</a>
+  <a href="https://www.zobayerdev.trodev.com" target="_blank">Md. Zobayer Hasan Nayem</a>
 <br>
 Student of Bangladesh University Of Business And Technology (BUBT)
 </h3>
@@ -80,15 +77,21 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 <!-- ####################################### -->
 <h3>Additional Programming list </h3>
 <ol>
-  <li>
+    <li>
+    <a href="https://github.com/zobayerdev/Java_Program" target="_blank">Backend Programming</a>
+    </li>
+    <li>
+    <a href="https://github.com/zobayerdev/Java_Program" target="_blank">Dart Programming</a>
+    </li>
+    <li>
     <a href="https://github.com/zobayerdev/Java_Program" target="_blank">Java Programming</a>
-  </li>
+    </li>
     <li>
     <a href="https://github.com/zobayerdev/Python_Program" target="_blank">Python Programming</a>
-  </li>
-  <li>
-    <a href="https://github.com/zobayerdev/Web_Development" target="_blank">Web Development Programming</a>
-  </li>
+    </li>
+    <li>
+    <a href="https://github.com/zobayerdev/Web_Development" target="_blank">Frontend Programming</a>
+    </li>
 </ol>
 <!-- ##################################### -->
 
@@ -153,23 +156,9 @@ Student of Bangladesh University Of Business And Technology (BUBT)
  </li>
  </ol>
  
- 
-  <!-- ##################################### -->
-<h3>Desktop Software (C# Versity Project)</h3>
-<ol>
-  <li>
-    <a href="https://github.com/zobayerdev/ATM_Management_System" target="_blank">ATM Management System  Software</a>
-  </li>
-  <li>
-    <a href="https://github.com/zobayerdev/Blood-Donation-Management" target="_blank">Blood Donation Management Software</a>
-  </li>
-   <li>
-    <a href="" target="_blank">Upcoming....!</a>
- </li>  
- </ol>
- 
+
 <!-- ##################################### -->
-<h3>University Project</h3>
+<h3>SDP Project of University</h3>
 <ol>
   <li>
     <a href="https://github.com/zobayerdev/ATM_Management_System" target="_blank">Banking Management System Software</a>
@@ -207,9 +196,6 @@ Student of Bangladesh University Of Business And Technology (BUBT)
   <li>
     <a href="https://sites.google.com/view/pdfview-dependency-error-solve/" target="_blank">Solve PDFView in Android Studio.</a>
   </li>
-  <!-- <li>
-  <!-- <a href="https://zobayerdev.gitbook.io/dstqm/" target="_blank"> দারুস সুন্নাহ তাহফিজুল কোরআন মাদ্রাসা </a> 
-  </li> -->
   <li>
       <a href="" target="_blank"> Upcoming....</a>
   </li>
@@ -220,10 +206,13 @@ Student of Bangladesh University Of Business And Technology (BUBT)
 <h3>Apps on Play Store</h3>
 <ol>
   <li>
+    <a href="https://play.google.com/store/apps/details?id=com.trodev.careermatcherpro" target="_blank">Career matcher Pro (CMP)</a>
+  </li>
+  <li>
     <a href="https://play.google.com/store/apps/details?id=com.trodev.trodevit" target="_blank">Trodev</a>
   </li>
   <li>
-    <a href="https://play.google.com/store/apps/details?id=com.trodev.dailyayat" target="_blank">Daily Ayah</a>
+    <a href="https://play.google.com/store/apps/details?id=com.trodev.dailyayat" target="_blank">Daily Ayat</a>
   </li>  
   <li>
     <a href="https://play.google.com/store/apps/details?id=com.hpsoft.madrashauser" target="_blank">দারুস সুন্নাহ তাহফিজুল কুরআন মাদ্রাসা</a>
@@ -232,37 +221,5 @@ Student of Bangladesh University Of Business And Technology (BUBT)
     <a href="https://play.google.com/store/apps/details?id=com.trodev.attaqwa" target="_blank">Madrasha AT-Taqwa</a>
   </li>
 </ol>
- 
-<!-- ##################################### -->
-<h3>Another Repository</h3>
-<ol>
-  <li>
-    <a href="https://github.com/zobayerdev/Folder_icon" target="_blank">Folder_Icon</a>
-  </li>
- </ol>
- 
-<!-- ##################################### -->
-<h3>Mouse Repository</h3>
-<ol>
-  <li>
-    <a href="https://github.com/zobayerdev/Mouse" target="_blank">Mouse Icon</a>
-  </li>
- </ol>
- 
- 
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-# Hacktoberfest Badge Collection
-### Hacktoberfest- Holopin Badge-2022
-<p>
-<!-- <img src="https://user-images.githubusercontent.com/74914169/196501766-7e877b80-4063-4591-8f2e-b9f8ebf82750.png" width=15% height=15%> -->
-<img src="https://user-images.githubusercontent.com/74914169/198706440-92734557-8fed-4071-9fdd-ca02aeba7212.png" width=15% height=15%>
-<img src="https://user-images.githubusercontent.com/74914169/197784423-efef9eb1-8e78-4f57-b02e-15ba9e44ef9e.png" width=15% height=15%>
-<img src="https://user-images.githubusercontent.com/74914169/198705934-50a9b9e7-e57b-4f3f-946c-1d3423190222.png" width=15% height=15%>
-<img src="https://user-images.githubusercontent.com/74914169/198706150-1c185e51-5ea1-4961-8ada-5debbec85cab.png" width=15% height=15%>
-<img src="https://user-images.githubusercontent.com/74914169/203606181-26443943-2b50-4e41-89f2-23e78f525cb8.png" width=15% height=15%>
-<img src="https://user-images.githubusercontent.com/74914169/203605891-edb2f02c-2c0a-4282-9d73-15a89723e3be.png" width=15% height=15%>
-</p>
-
-
-![unnamed (1)](https://user-images.githubusercontent.com/74914169/196501337-528f5c28-2bba-4096-a58e-97d96dca3684.png)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zobayerdev)](https://github.com/anuraghazra/github-readme-stats)
