@@ -1,13 +1,23 @@
-# Hi 👋, I'm Md. Zobayer Hasan Nayem
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=FF5A2C&center=true&vCenter=true&width=700&lines=Hi+I+am+Md.+Zobayer+Hasan+Nayem;Passionate+Mobile+App+Developer;Team+Lead+and+Software+Engineer+at+Softvence+Agencey;Hi+I+am+Building+Production-Ready+Apps"/>
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />
+</div>
+
 
 ### A passionate Mobile App Developer (Android & iOS)
-
 - 🔭 I'm currently working on **"TroCash App"**
 - 🌱 I'm currently learning **Flutter Core & Django**
 - 👯 I'm looking to collaborate on **open source project**
 - 💬 Ask me about **Flutter, Django, Android, iOS, Subscription, In App Purchase, **
 - 📫 How to reach me **zobayer.dev@gmail.com**
 - 👨‍💻 All of my projects are available at **[https://www.zobayer.xyz](https://www.zobayer.xyz)**
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -96,3 +106,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zobayerdev&" alt="zobayerdev" /></p>
 
+<img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="900">
