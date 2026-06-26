@@ -20,85 +20,28 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/zobayerdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="zobayerdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zobayerdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zobayerdev" height="30" width="40" /></a>
-<a href="https://fb.com/zobayer.hasan.nayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zobayer.hasan.nayem" height="30" width="40" /></a>
-<a href="https://youtube.com/zobayerdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zobayerdev" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
-  </a>
-</p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zobayer.hasan.nayem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zobayerdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zobayerdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zobayer.dev@gmail.com)
 
+## 💻 Tech Stack:
 
-<h3 align="left">Mobile Development & Frameworks:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="android studio" width="40" height="40"/>
-  </a>
-</p>
+### 🚀 Programming Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
+### 🛠️ Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-<h3 align="left">Backend & Databases:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/hive" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="hive" width="40" height="40"/>
-  </a>
-</p>
+### 🗄️ Databases
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<h3 align="left">Tools, Design & Others:</h3>
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/>
-  </a>
-</p>
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zobayerdev&show_icons=true&locale=en&layout=compact" alt="zobayerdev" /></p>
 
